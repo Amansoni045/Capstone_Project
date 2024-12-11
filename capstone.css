@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+body{
+    margin: 0;
+}.outermost-div{
+    background-color: rgba(0, 0, 0, 1);
+    ;
+    width: Fixed (1,440px)px;
+    height: Hug (5,041px)px;
+    min-height: 900px;
+    top: -1890px;
+    left: 309px;
+    padding: 0px 48px 0px 48px;
+    gap: 0px;
+    opacity: 0px;
+}
+.personal-header{
+    width: Fill (1,344px)px;
+    height: Hug (80px)px;
+    padding: 16px 0px 16px 0px;
+    gap: 0px;
+    border: 0px 0px 1.5px 0px;
+    justify-content: space-between;
+    opacity: 0px;
+}
+.personal-header .logo{
+    width: Hug (141px)px;
+    height: Fixed (48px)px;
+    gap: 12px;
+    opacity: 0px;
+}
+.personal-header .logo .Glitchart{
+    color: rgba(255, 255, 255, 1);
+    width: 141px;
+    height: 29px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Staatliches;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.pagelinks{
+    width: Hug (441px)px;
+    height: Hug (32px)px;
+    gap: 32px;
+    opacity: 0px;
+}
+.about{
+    width: 80px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Red Hat Display;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(255, 255, 255, 1);
+}
+.container{
+    width: Fill (1,344px)px;
+    height: Hug (4,793px)px;
+    padding: 48px 0px 48px 0px;
+    gap: 0px;
+    opacity: 0px;   
+}
+.landing-page{
+    width: Fill (1,344px)px;
+    height: Hug (1,152px)px;
+    padding: 96px 0px 96px 0px;
+    gap: 48px;
+    border: 0px 0px 1.5px 0px;
+    opacity: 0px;
+}
+.landing-page h1{
+    color: white;   
+}
